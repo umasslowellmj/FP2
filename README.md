@@ -1,10 +1,10 @@
 # Final Project Assignment 2: Explore One More! (FP2) 
 DUE March 30, 2015 Monday (2015-03-30)
 
-Full assignment specfication is [on Piazza.][piazza]
+This is just like FP1, but where you do a different library. (Full description of FP1 is [on Piazza.][piazza])
 
 Write your report right in this file. Instructions are below. You can delete them if you like, or just leave them at the bottom.
-You are allowed to change/delete anything in this file to make it into your report. It will be public, FYI.
+You are allowed to change/delete anything in this file to make it into your report. It will be public.
 
 This file is formatted with the [**markdown** language][markdown], so take a glance at how that works.
 
@@ -33,10 +33,9 @@ Ask questions publicly in the Piazza group.
 ### How to Do and Submit this assignment
 
 1. To start, [**fork** this repository][forking].
-1. You might want to [**Clone**][ref-clone] this repository to your computer
-  2. (This assignment is just one README.md file, so you can edit it right in github without cloning if you like)
 1. Modify the README.md file and [**commit**][ref-commit] changes to complete your solution.
-1. [**Push**][ref-push]/sync the changes up to your GitHub (skip this if you didn't clone)
+  2. (This assignment is just one README.md file, so you can edit it right in github without cloning)
+  3. (You may need to clone and push if you want to add extra files)
 1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
 
 <!-- Links -->
