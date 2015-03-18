@@ -3,6 +3,8 @@ DUE March 30, 2015 Monday (2015-03-30)
 
 This is just like FP1, but where you do a different library. (Full description of FP1 is [on Piazza.][piazza])
 
+During this assignment, you should start looking for teammates. See the project schedule [on Piazza.][schedule]
+
 Write your report right in this file. Instructions are below. You can delete them if you like, or just leave them at the bottom.
 You are allowed to change/delete anything in this file to make it into your report. It will be public.
 
@@ -40,6 +42,7 @@ Ask questions publicly in the Piazza group.
 
 <!-- Links -->
 [piazza]: https://piazza.com/class/i55is8xqqwhmr?cid=411
+[schedule]: https://piazza.com/class/i55is8xqqwhmr?cid=453
 [markdown]: https://help.github.com/articles/markdown-basics/
 [forking]: https://guides.github.com/activities/forking/
 [ref-clone]: http://gitref.org/creating/#clone
